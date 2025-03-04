@@ -1,4 +1,4 @@
-Encryption and Decryption Tool
+Encryption and Decryption TooL
 
 This is a simple Python GUI application built with Tkinter that allows users to encrypt and decrypt messages using Base64 encoding. The tool provides a basic level of security by requiring a password to access the encryption and decryption features.
 
